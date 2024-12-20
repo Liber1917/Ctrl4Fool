@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -70,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 控制理论与方法-引入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks for 0 控制理论与方法-引入"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 控制理论与方法-引入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links from 0 控制理论与方法-引入"
             }
           },
           {
@@ -128,7 +130,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md"
+                "file": "0 控制理论与方法-引入.md"
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Outline of 0 控制理论与方法-引入"
             }
           }
         ]
@@ -162,22 +164,26 @@
   },
   "active": "c17cf7719f3b40b3",
   "lastOpenFiles": [
-    "0 闭环控制系统框图举例2.png",
-    "0 闭环控制系统框图举例.png",
+    "0 开环控制系统框图举例2.png",
     "0 控制原理图举例.png",
+    "0 控制理论与方法-引入.md",
     "0 闭环控制系统框图举例.png",
+    "0 闭环控制系统框图举例2.png",
+    "0 控制理论引入/0-1 控制系统图示与构成.md",
+    "0 开环控制系统框图举例.png",
+    "0 控制理论引入/0 闭环控制系统框图举例.png",
+    "0 控制理论引入",
+    "0 控制理论引入/0-2 控制系统分类学.md",
+    "0 控制理论引入/0 开环控制系统框图举例2.png",
+    "0 控制理论引入/0 控制理论与方法-引入.md",
+    "0 控制理论引入/0 闭环控制系统框图举例2.png",
+    "0 控制理论引入/0 控制原理图举例.png",
     "Pasted image 20241219230841.png",
     "Pasted image 20241219230845.png",
-    "0 控制理论与方法-引入.md",
-    "0 开环控制系统框图举例.png",
     "各种目录/过控考察目录.md",
     "各种目录/自控考察目录.md",
     "各种目录",
-    "各种目录/Pasted image 20241218224036.png",
     "各种目录/现控考察目录.md",
-    "各种目录/Pasted image 20241218223948.png",
-    "各种目录/Pasted image 20241218223933.png",
-    "各种目录/Pasted image 20241218223920.png",
     "欢迎.md"
   ]
 }
